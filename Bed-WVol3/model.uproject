@@ -3,14 +3,5 @@
 	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
-		{
-			"Name": "DatasmithImporter",
-			"Enabled": true
-		},
-		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true
-		}
-	]
+	"Plugins": []
 }
